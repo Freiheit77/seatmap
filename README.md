@@ -1,5 +1,9 @@
 # Jackson Hall_modify WC
 
+This project aims to visualize the seatmap of a performing arts center. After using ovservable to map each and set up the x, y position for each seat, Tableau is used to do visualization. The sample outcome is like the following graph: 
+
+
+
 https://observablehq.com/d/a821ebe900c694cc@128
 
 View this notebook in your browser by running a web server in this folder. For
